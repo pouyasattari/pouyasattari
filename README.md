@@ -18,9 +18,10 @@
   </a>
 </div>
 <div align="center">
-  <p>
-    <a href="https://sattari.org" target="_blank">https://Sattari.org</a>
-  </p>
+<p>
+  <a href="https://sattari.org" target="_blank" style="color: white; font-weight: bold;">https://Sattari.org</a>
+</p>
+
 </div>
 
 
