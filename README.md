@@ -36,8 +36,6 @@
 
 ###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pouyasattari&label=Github%20Visitors&color=d1d0e6&style=plastic" alt="pouyasattari" /> </p>
-
 - 🔭 I’m currently working on **Various Machine Learning projects such as Brain Cancer detection, Graph Neural Networks and Vulnerability detection by deep learning**
 
 - 👨‍💻 I invite you to Take a look at my Portfolio [sattari.org/PROJECTS](https://sattari.org/PROJECTS)
@@ -98,7 +96,9 @@
 
 ###
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pouyasattari&label=Github%20Visitors&color=d1d0e6&style=plastic" alt="pouyasattari" /> </p>
 
+###
 
 <div align="center">
 </div>
