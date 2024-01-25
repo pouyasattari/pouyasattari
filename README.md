@@ -48,6 +48,8 @@
 
 - 📄 Know about my experiences ([SATTARI.org](https://sattari.org))
 
+- 🤙 Let's talk together, even over a coffee break! ([Book a Friendly Call on Cal.Com](https://cal.com/sattari))
+
 
 
 ###
