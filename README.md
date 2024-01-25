@@ -46,7 +46,7 @@
 
 - 📫 Reach me by **pouya@sattari.org**
 
-- 📄 Know about my experiences [sattari.org](sattari.org)
+- 📄 Know about my experiences ([sattari.org](https://sattari.org))
 
 
 
