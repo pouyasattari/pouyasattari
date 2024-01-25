@@ -40,13 +40,13 @@
 
 - 🔭 I’m currently working on **Various Machine Learning projects such as Cancer detection, Graph Neural Networks and Vulnerability detection by deep learning**
 
-- 👨‍💻 I invite you to Take a look at my Portfolio [sattari.org/PROJECTS](sattari.org/PROJECTS)
+- 👨‍💻 I invite you to Take a look at my Portfolio [sattari.org/PROJECTS](https://sattari.org/PROJECTS)
 
-- 🏎 I share my Latest Insights in my learning journey [http://pouyasattari.medium.com/](http://pouyasattari.medium.com/)
+- 🏎 I share my Latest Insights in my learning journey [pouyasattari.medium.com](http://pouyasattari.medium.com/)
 
 - 📫 Reach me by **pouya@sattari.org**
 
-- 📄 Know about my experiences ([sattari.org](https://sattari.org))
+- 📄 Know about my experiences ([SATTARI.org](https://sattari.org))
 
 
 
