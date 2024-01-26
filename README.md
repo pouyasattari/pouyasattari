@@ -20,7 +20,7 @@
 </div>
 <div align="center">
 <p>
-  <a href="https://sattari.org" target="_blank" style="color: white; font-weight: bold;">www.SATTARI.org</a>
+  <a href="https://sattari.org" target="_blank" style="color: white; font-weight: bold;">   www.SATTARI.org</a>
 </p>
 
 </div>
