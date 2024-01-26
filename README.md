@@ -37,9 +37,9 @@
 
 ###
 
-- 🔭 I’m currently working on **Various Machine Learning projects such as Brain Cancer detection, Graph Neural Networks and Vulnerability detection by deep learning**
+- 🔭 I’m **A graduating Master's student in Data Science** and currently working on **Various Machine Learning projects such as Brain Cancer detection, Graph Neural Networks, and Vulnerability detection by deep learning**
 
-- 👨‍💻 I invite you to Take a look at my Portfolio [sattari.org/PROJECTS](https://sattari.org/PROJECTS)
+- 👨‍💻 I invite you to take a look at my Portfolio [sattari.org/PROJECTS](https://sattari.org/PROJECTS)
 
 - 🏎 I share my Latest Insights in my learning journey [pouyasattari.medium.com](http://pouyasattari.medium.com/)
 
