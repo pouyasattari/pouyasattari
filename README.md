@@ -6,38 +6,36 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/pouya-sattari/" target="_blank">
-    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height="20" alt="linkedin logo"  />
-  </a>
-    <a href="http://pouyasattari.medium.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" height="20" alt="medium logo"  />
-  </a>
-  <a href="sattaripouya@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo"  />
-  </a>
-
-</div>
-<div align="center">
-<p>
-  <a href="https://sattari.org" target="_blank" style="color: white; font-weight: bold;">   www.SATTARI.org</a>
-</p>
-
-</div>
-
-
-
-###
-
 <h1 align="center">Hi 👋,   I'm Pouya</h1>
 
 ###
+
+
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <a href="https://www.sattari.org">
+    <img src="https://img.shields.io/badge/SATTARI.org-blue?logo=internetexplorer" alt="SATTARI.org">
+  </a>
+  <a href="https://www.linkedin.com/in/pouya-sattari/" target="_blank">
+    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" height="20" alt="linkedin logo">
+  </a>
+  <a href="http://pouyasattari.medium.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" height="20" alt="medium logo">
+  </a>
+  <a href="sattaripouya@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=pouyasattari&label=%20Visitors&color=blue&style=flat" alt="pouyasattari" height="20"/>
+</div>
+
+
+###
+
 
 <h3 align="left">👩‍💻  Who am I</h3>
 
 ###
 
-- 🔭 I’m **A graduating Master's student in Data Science** and currently working on **Various Machine Learning projects such as Brain Cancer detection, Graph Neural Networks, and Vulnerability detection by deep learning**
+- 🔭 I’m **a graduating Master's student in Data Science** and currently working on **Various Machine Learning projects such as Brain Cancer detection, Graph Neural Networks, and Vulnerability detection by deep learning**
 
 - 👨‍💻 I invite you to take a look at my Portfolio [sattari.org/PROJECTS](https://sattari.org/PROJECTS)
 
@@ -95,11 +93,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
 </div>
 
-###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pouyasattari&label=Github%20Visitors&color=d1d0e6&style=plastic" alt="pouyasattari" /> </p>
-
-###
 
 <div align="center">
 </div>
