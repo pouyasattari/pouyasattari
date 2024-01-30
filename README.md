@@ -11,22 +11,27 @@
 ###
 
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <a href="https://huggingface.co/sattari">
+<div align="center" style="display: flex; justify-content: center;">
+  <a href="https://huggingface.co/sattari" target="_blank">
     <img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/follow-me-on-HF-md-dark.svg" alt="Follow me on HF" height="20">
- </a>
+  </a> 
+  ·
   <a href="https://www.linkedin.com/in/pouya-sattari/" target="_blank">
     <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" height="20" alt="linkedin logo">
   </a>
+  ·
   <a href="http://pouyasattari.medium.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" height="20" alt="medium logo">
   </a>
-    <a href="https://www.sattari.org">
+  ·
+  <a href="https://www.sattari.org" target="_blank">
     <img src="https://img.shields.io/badge/SATTARI.org-blue?logo=internetexplorer" alt="SATTARI.org">
   </a>
+  ·
   <a href="sattaripouya@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo">
   </a>
+  ·
   <img src="https://komarev.com/ghpvc/?username=pouyasattari&label=%20Visitors&color=blue&style=flat" alt="pouyasattari" height="20"/>
 </div>
 
