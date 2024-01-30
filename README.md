@@ -13,7 +13,7 @@
 
 <div align="center" style="display: flex; justify-content: center;">
   <a href="https://huggingface.co/sattari" target="_blank">
-    <img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/follow-me-on-HF-md-dark.svg" alt="Follow me on HF" height="20">
+    <img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/follow-me-on-HF-lg-dark.svg" alt="Follow me on HF" height="20">
   </a> 
   ·
   <a href="https://www.linkedin.com/in/pouya-sattari/" target="_blank">
