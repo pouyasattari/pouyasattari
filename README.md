@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/SATTARI.org-blue?logo=internetexplorer" alt="SATTARI.org">
   </a>
   ·
-  <a href="sattaripouya@gmail.com" target="_blank">
+  <a href="mailto:sattaripouya@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo">
   </a>
   ·
