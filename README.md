@@ -43,7 +43,7 @@
 
 ###
 
-- 📚 I’m **a graduating Master's student in Data Science** and currently working on **Various Machine Learning projects such as Brain Cancer detection, Graph Neural Networks, and Vulnerability detection by deep learning**
+- 📚 I’m **a graduating Master's student in Data Science** and currently working on **Various Machine Learning projects such as Brain Cancer detection, Graph Neural Networks, and Code Generation with Transformers**
 
 - 📈 I invite you to take a look at my **Portfolio** [sattari.org/PROJECTS](https://sattari.org/PROJECTS)
 
