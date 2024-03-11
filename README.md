@@ -2,108 +2,74 @@
   <img src="https://sattari.org/wp-content/uploads/2024/01/output-onlinegiftools.gif" alt="Cover Image" style="max-width:100%; max-height:300px; pointer-events: none;">
 </div>
 
-
-
 ###
 
-<h1 align="center">Hi 👋,   I'm Pouya</h1>
+<h1 align="center">Hi 👋, I'm Pouya</h1>
+<h3 align="center">Machine Learning Enthusiast | Data Scientist | Data Analyst</h3>
+<h4 align="center">"Dedicated to transforming data into actionable insights for smarter decision-making."</h4>
 
 ###
-
-
-<div align="center" style="display: flex; justify-content: center;">
-  <a href="https://www.linkedin.com/in/pouya-sattari/" target="_blank">
-    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" height="20" alt="linkedin logo">
-  </a>
-  ·
-  <a href="http://pouyasattari.medium.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" height="20" alt="medium logo">
-  </a>
-  ·
-  <a href="https://huggingface.co/sattari" target="_blank">
-    <img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/follow-me-on-HF-lg-dark.svg" alt="Follow me on HF" height="20">
-  </a> 
-  ·
-  <a href="https://www.sattari.org" target="_blank">
-    <img src="https://img.shields.io/badge/SATTARI.org-blue?logo=internetexplorer" alt="SATTARI.org">
-  </a>
-  ·
-  <a href="mailto:sattaripouya@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo">
-  </a>
-  ·
-  <img src="https://komarev.com/ghpvc/?username=pouyasattari&label=%20Visitors&color=blue&style=flat" alt="pouyasattari" height="20"/>
-</div>
-
-
-###
-
-
-<h3 align="left">👨‍💻  Who am I</h3>
-
-###
-
-- 📚 I’m **a graduating Master's student in Data Science** and currently working on **Various Machine Learning projects such as Brain Cancer detection, Graph Neural Networks, and Code Generation with Transformers**
-
-- 📈 I invite you to take a look at my **Portfolio** [sattari.org/PROJECTS](https://sattari.org/PROJECTS)
-
-- ✍️ I share my Latest Insights in my learning journey [pouyasattari.medium.com](http://pouyasattari.medium.com/)
-
-- 💌 Reach me by **pouya@sattari.org**
-
-- 🧰 Know about my experiences ([SATTARI.org](https://sattari.org))
-
-- ☎️ Let's talk together, even over a coffee break! ([Book a Friendly Call on Cal.Com](https://cal.com/sattari))
-
-
-
-###
-
-<h3 align="left">🛠</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-</div>
-
-
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/pouya-sattari/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="http://pouyasattari.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="https://huggingface.co/sattari" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-%23FF9A00.svg?&style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face"></a>
+  <a href="https://www.sattari.org" target="_blank"><img src="https://img.shields.io/badge/SATTARI.org-%23323330.svg?&style=for-the-badge&logo=internetexplorer&logoColor=blue" alt="Website"></a>
+  <a href="mailto:sattaripouya@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://komarev.com/ghpvc/?username=pouyasattari&label=Visitors&color=blue&style=flat-square" alt="visitors">
 </div>
 
 ###
+
+<h3 align="center">👨‍💻 Who Am I</h3>
+
+###
+
+- 📚 **A Data Science Master's graduate** with a passion for **Brain Cancer Detection, Graph Neural Networks, and Code Generation using Transformers**.
+
+- 📈 Explore my **[Portfolio](https://sattari.org/PROJECTS)**  for an immersive experience of my projects.
+
+- ✍️ Discover my **[Insights](http://pouyasattari.medium.com/)** on technological breakthroughs and the data science landscape on **[Medium](http://pouyasattari.medium.com/)**.
+
+- 💌 Looking to collaborate or have a question? Reach out at **[pouya@sattari.org](mailto:pouya@sattari.org)**.
+
+- ☎️ Keen on a brainstorming session or just to chat? **[Schedule a meeting with me](https://cal.com/sattari)**.
+
+###
+
+<h3 align="center">🛠 Tech Stack</h3>
+
+###
+
+<div align="center">
+  <!-- Core Data Science & ML Tools -->
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/RStudio-75AADB.svg?&style=for-the-badge&logo=rstudio&logoColor=white" alt="RStudio" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/ScikitLearn-F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  
+  <!-- Data Analysis & Manipulation -->
+  <img src="https://img.shields.io/badge/Numpy-013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  
+  <!-- Development Tools & Environments -->
+  <img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Anaconda-44A833.svg?&style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" />
+  <img src="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  
+  <!-- Cloud & Big Data -->
+  <img src="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+  
+  <!-- Additional ML & Data Analysis Tools -->
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  
+  <!-- Version Control and Collaboration -->
+  <img src="https://img.shields.io/badge/GitHub-100000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</div>
+
+
+###
+
