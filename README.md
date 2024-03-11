@@ -8,7 +8,7 @@
 <h3 align="center">Machine Learning Enthusiast | Data Scientist | Data Analyst</h3>
 <h4 align="center"><i>'Seeking to visualize and develop predictive models for smarter decision making, and impactful outcomes.'</i></h4>
 
-<br><br><br>
+<br><br>
 
 ###
 
@@ -37,7 +37,7 @@
   <img src="https://komarev.com/ghpvc/?username=pouyasattari&label=Visitors&color=blue&style=flat-square" alt="visitors">
 </div>
 
-<br><br><br>
+<br><br>
 
 ###
 
