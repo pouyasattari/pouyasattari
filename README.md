@@ -6,18 +6,8 @@
 
 <h1 align="center">Hi 👋, I'm Pouya</h1>
 <h3 align="center">Machine Learning Enthusiast | Data Scientist | Data Analyst</h3>
-<h4 align="center"><i>Seeking to visualize and develop predictive models for smarter decision making, and impactful outcomes.</i></h4>
+<h4 align="center"><i>'Seeking to visualize and develop predictive models for smarter decision making, and impactful outcomes.'</i></h4>
 
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/pouya-sattari/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="http://pouyasattari.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
-  <a href="https://huggingface.co/sattari" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-%23FF9A00.svg?&style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face"></a>
-  <a href="https://www.sattari.org" target="_blank"><img src="https://img.shields.io/badge/SATTARI.org-%23323330.svg?&style=for-the-badge&logo=internetexplorer&logoColor=blue" alt="Website"></a>
-  <a href="mailto:sattaripouya@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://komarev.com/ghpvc/?username=pouyasattari&label=Visitors&color=blue&style=flat-square" alt="visitors">
-</div>
 
 <br>
 <br>
@@ -38,6 +28,19 @@
 - 💌 Looking to collaborate or have a question? Reach out at **[pouya@sattari.org](mailto:pouya@sattari.org)**.
 
 - ☎️ Keen on a brainstorming session or just to chat? **[Schedule a meeting with me](https://cal.com/sattari)**.
+
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/pouya-sattari/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="http://pouyasattari.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="https://huggingface.co/sattari" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-%23FF9A00.svg?&style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face"></a>
+  <a href="https://www.sattari.org" target="_blank"><img src="https://img.shields.io/badge/SATTARI.org-%23323330.svg?&style=for-the-badge&logo=internetexplorer&logoColor=blue" alt="Website"></a>
+  <a href="mailto:sattaripouya@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://komarev.com/ghpvc/?username=pouyasattari&label=Visitors&color=blue&style=flat-square" alt="visitors">
+</div>
+
 
 <br>
 <br>
