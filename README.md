@@ -8,10 +8,7 @@
 <h3 align="center">Machine Learning Enthusiast | Data Scientist | Data Analyst</h3>
 <h4 align="center"><i>'Seeking to visualize and develop predictive models for smarter decision making, and impactful outcomes.'</i></h4>
 
-
-<br>
-<br>
-<br>
+<br><br><br>
 
 ###
 
@@ -21,14 +18,13 @@
 
 - 📚 **A Data Science Master's graduate** with a passion for **Brain Cancer Detection, Graph Neural Networks, and Code Generation using Transformers**.
 
-- 📈 Explore my **[Portfolio](https://sattari.org/PROJECTS)**  for an immersive experience of my projects.
+- 📈 Explore my **[Portfolio](https://sattari.org/PROJECTS)** for an immersive experience of my projects.
 
 - ✍️ Discover my **[Insights](http://pouyasattari.medium.com/)** on technological breakthroughs and the data science landscape on **[Medium](http://pouyasattari.medium.com/)**.
 
 - 💌 Looking to collaborate or have a question? Reach out at **[pouya@sattari.org](mailto:pouya@sattari.org)**.
 
-- ☎️ Keen on a brainstorming session or just to chat? **[Schedule a meeting with me](https://cal.com/sattari)**.
-
+- ☎️ Keen on a brainstorming session or to chat? **[Schedule a meeting with me](https://cal.com/sattari)**.
 
 ###
 
@@ -41,12 +37,7 @@
   <img src="https://komarev.com/ghpvc/?username=pouyasattari&label=Visitors&color=blue&style=flat-square" alt="visitors">
 </div>
 
-
-<br>
-<br>
-<br>
-
-
+<br><br><br>
 
 ###
 
@@ -82,7 +73,6 @@
   <!-- Version Control and Collaboration -->
   <img src="https://img.shields.io/badge/GitHub-100000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </div>
-
 
 ###
 
