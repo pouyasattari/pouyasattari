@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm Pouya</h1>
 <h3 align="center">Machine Learning Enthusiast | Data Scientist | Data Analyst</h3>
-<h4 align="center">"Dedicated to transforming data into actionable insights for smarter decision-making."</h4>
+<h4 align="center"><i>Seeking to visualize and develop predictive models for smarter decision making, and impactful outcomes.</i></h4>
 
 ###
 
@@ -18,6 +18,10 @@
   <a href="mailto:sattaripouya@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://komarev.com/ghpvc/?username=pouyasattari&label=Visitors&color=blue&style=flat-square" alt="visitors">
 </div>
+
+<br>
+<br>
+<br>
 
 ###
 
@@ -34,6 +38,12 @@
 - 💌 Looking to collaborate or have a question? Reach out at **[pouya@sattari.org](mailto:pouya@sattari.org)**.
 
 - ☎️ Keen on a brainstorming session or just to chat? **[Schedule a meeting with me](https://cal.com/sattari)**.
+
+<br>
+<br>
+<br>
+
+
 
 ###
 
