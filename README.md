@@ -8,9 +8,10 @@
 <h3 align="center">Machine Learning Enthusiast | Data Scientist | Data Analyst</h3>
 <h4 align="center"><i>'Seeking to visualize and develop predictive models for smarter decision making, and impactful outcomes.'</i></h4>
 
-<br><br>
 
-###
+---
+<br>
+
 
 <h3 align="left">👨‍💻 Who Am I</h3>
 
