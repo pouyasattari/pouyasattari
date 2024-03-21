@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="center">👨‍💻 Who Am I</h3>
+<h3 align="left">👨‍💻 Who Am I</h3>
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/pouya-sattari/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="http://pouyasattari.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
   <a href="https://huggingface.co/sattari" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-%23FF9A00.svg?&style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face"></a>
@@ -41,11 +41,11 @@
 
 ###
 
-<h3 align="center">🛠 Tech Stack</h3>
+<h3 align="left">🛠 Tech Stack</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/RStudio-75AADB.svg?&style=for-the-badge&logo=rstudio&logoColor=white" alt="RStudio" />
