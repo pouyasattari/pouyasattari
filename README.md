@@ -34,8 +34,7 @@
   <a href="http://pouyasattari.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
   <a href="https://huggingface.co/sattari" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-%23FF9A00.svg?&style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face"></a>
   <a href="https://www.sattari.org" target="_blank"><img src="https://img.shields.io/badge/SATTARI.org-%23323330.svg?&style=for-the-badge&logo=internetexplorer&logoColor=blue" alt="Website"></a>
-  <a href="mailto:sattaripouya@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://komarev.com/ghpvc/?username=pouyasattari&label=Visitors&color=blue&style=flat-square" alt="visitors">
+ 
 </div>
 
 <br><br>
