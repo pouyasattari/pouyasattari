@@ -5,7 +5,7 @@
 ###
 
 <h1 align="center">Hi 👋, I'm Pouya</h1>
-<h3 align="center">Machine Learning Enthusiast | Data Scientist | Data Analyst</h3>
+<h3 align="center">Data Scientist | AI Engineer</h3>
 <h4 align="center"><i>'Seeking to visualize and develop predictive models for smarter decision making, and impactful outcomes.'</i></h4>
 
 
@@ -16,8 +16,6 @@
 <h3 align="left">👨‍💻 Who Am I</h3>
 
 ###
-
-- 📚 **A Data Science Master's graduate** with a passion for **Brain Cancer Detection, Graph Neural Networks, and Code Generation using Transformers**.
 
 - 📈 Explore my **[Portfolio](https://sattari.org/PROJECTS)** for an immersive experience of my projects.
 
