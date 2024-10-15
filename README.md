@@ -15,6 +15,9 @@
 
 <h3 align="left">👨‍💻 Who Am I</h3>
 
+💭 Most companies guess  when improving products and, Waste Money!
+<br> ✨ I make AI tools, for targeted decisions, cost savings, and revenue growth.
+
 ###
 
 - 📈 Explore my **[Portfolio](https://sattari.org/PROJECTS)** for an immersive experience of my projects.
