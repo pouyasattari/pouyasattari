@@ -24,7 +24,7 @@
 
 - ✍️ Discover my **[Insights](http://pouyasattari.medium.com/)** on technological breakthroughs and the data science landscape on **[Medium](http://pouyasattari.medium.com/)**.
 
-- 💌 Looking to collaborate or have a question? Reach out at **[pouya@sattari.org](mailto:pouya@sattari.org)**.
+- 💌 Looking to collaborate or have a question? Reach out at **[hello@sattari.org](mailto:hello@sattari.org)**.
 
 - ☎️ Keen on a brainstorming session or to chat? **[Schedule a meeting with me](https://cal.com/sattari)**.
 
