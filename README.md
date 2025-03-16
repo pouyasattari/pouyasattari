@@ -13,10 +13,15 @@
 <br>
 
 
-<h3 align="left">👨‍💻 Who Am I</h3>
 
 💭 Most companies guess  when improving products and, Waste Money!
 <br> ✨ I make AI tools, for targeted decisions, cost savings, and revenue growth.
+
+
+<h3 align="left">👨‍💻 Who Am I</h3>
+I'm a data scientist with a Master's degree in Data Science from the University of Naples, Federico II, NAPLES, Italy <br>
+
+<br>
 
 ###
 
