@@ -2,7 +2,6 @@
   <img src="https://sattari.org/wp-content/uploads/2024/01/output-onlinegiftools.gif" alt="Cover Image" style="max-width:100%; max-height:300px; pointer-events: none;">
 </div>
 
-<h1 align="center">Hi 👋, I'm Pouya Sattari</h1>
 <h3 align="center">Analytics & Evaluation Engineer • NLP Researcher • LLMs</h3>
 
 <h4 align="center"><i>Building AI systems, agents, and evaluation frameworks that turn data into reliable decisions.</i></h4>
