@@ -10,10 +10,6 @@
 
 <br>
 
-✨ I build **AI agents, analytics pipelines, and evaluation frameworks** to enable **data-driven decisions, cost efficiency, and measurable impact.**
-
-<br>
-
 ## 👨‍💻 About Me
 
 I'm an **Analytics & AI Engineer based in Italy** with a **Master's degree in Data Science from the University of Naples Federico II**.
