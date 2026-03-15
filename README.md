@@ -10,9 +10,6 @@
 
 <br>
 
-💡 Many companies rely on intuition when improving products and AI systems —  
-often wasting time, money, and opportunity.
-
 ✨ I build **AI agents, analytics pipelines, and evaluation frameworks** to enable **data-driven decisions, cost efficiency, and measurable impact.**
 
 <br>
