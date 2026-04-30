@@ -18,24 +18,19 @@
 - ⚙️ **AI integrations and data pipelines**
 - 📈 **Building reliable AI systems for real-world impact**
 
-I enjoy combining **research thinking with production engineering** to create AI that actually works in practice.
 
 <br>
 
-## 🚀 Explore My Work
+## 🤗 Check out my Website
 
-- 📈 Explore my **[Portfolio](https://sattari.org/projects)** to see my projects and experiments.
-
-- ✍️ Read my **[Articles on Medium](http://pouyasattari.medium.com/)** about AI, LLMs, and data science.
-
-- 🤗 Check out my **[Hugging Face](https://huggingface.co/sattari)** for models and NLP experiments.
+- **[sattari.org](https://sattari.org/)** for more info!
 
 <br>
 
 ## 🤝 Let's Connect
 
 - 💌 Email: **[pouya@sattari.org](mailto:pouya@sattari.org)**
-- ☎️ Book a meeting: **[Schedule here](https://calendar.app.google/ht2iMuzJn6gc2pCF9)**
+- ☎️ Mentorship call: **[Schedule here](https://calendar.app.google/ht2iMuzJn6gc2pCF9)**
 
 <br>
 
