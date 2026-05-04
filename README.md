@@ -18,13 +18,6 @@
 - ⚙️ **AI integrations and data pipelines**
 - 📈 **Building reliable AI systems for real-world impact**
 
-
-<br>
-
-## 🤗 Check out my Website
-
-- **[sattari.org](https://sattari.org/)** for more info!
-
 <br>
 
 ## 🤝 Let's Connect
