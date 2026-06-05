@@ -23,7 +23,7 @@
 ## 🤝 Let's Connect
 
 - 💌 Email: **[pouya@sattari.org](mailto:pouya@sattari.org)**
-- ☎️ Mentorship call: **[Schedule here](https://calendar.app.google/ht2iMuzJn6gc2pCF9)**
+- ☎️ FREE Mentorship call: **[Schedule here](https://calendar.app.google/ht2iMuzJn6gc2pCF9)**
 
 <br>
 
